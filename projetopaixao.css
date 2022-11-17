@@ -109,6 +109,11 @@ main strong{
     font-weight: bold;
 }
 
+main a{
+    color: var(--cor2);
+    font-weight: bold;
+}
+
 main img {
     width: 100%;
 }
@@ -128,4 +133,24 @@ div.video > iframe {
     width: 90%;
     height: 90%;
     
-}    
+}
+
+aside {
+    background-color: rgba(255, 0, 0, 0.582);
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.308);
+}
+
+aside > h3{
+    background-color: var(--cor1);
+    color: white;
+    padding: 5px;
+    margin: -10px -10px 0px -10px;
+    border-radius: 5px 5px 0px 0px;
+}
+
+aside > ul{
+    list-style-type: none;
+    list-style-position: inside;
+}
