@@ -5,4 +5,16 @@
     --cor1: #DF3035;
     --cor2: #343235;
     --cor3: white;
+
+    --fonte-padrao: Arial, Helvetica, Verdana, sans-serif;
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: var(--cor0);
+    font-family: var(--fonte-padrao);
 }
