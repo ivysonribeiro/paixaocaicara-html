@@ -1,4 +1,3 @@
-# paixaocaicara-html
  Projeto Página Paixão Caiçara ( Conquiste sua Vaga)
 
- Estou finalizando o Projeto01 da mentoria
+ Criação da Página da Quadrilha Junina Paixão Caiçara
